@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://www.google.com/s2/favicons?domain=marketnow.site&sz=64" height="14"/> [MarketNow](https://github.com/alicelabs-llc/universal-trust-adapter) - Free trust layer for AI agents on MCP: Agent Trust Card (ATC/1.0) credential verification, domain scam-checking (live RDAP + TLS inspection), tool-definition fingerprinting against the OWASP MCP Top-10 tool-poisoning indicators, and a 68k+ indexed MCP server registry search. Remote endpoint (Open, keyless public tools): https://www.marketnow.site/api/mcp - npm: marketnow-mcp.
 
 <br />
 
